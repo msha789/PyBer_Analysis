@@ -24,6 +24,6 @@ Riders in rural cities pay on average almost $10 more for PyBer than riders in u
 
 PyBer rides analysis above can help provide a few recommendations to PyBer CEO, listed below: 
 
-•	Increasing the number of drivers available for rural cities can help meet the ride demand better. 
-•	Rural cities might mean longer trips for the drivers operating in these cities and them being occupied for longer times. Including a long-haul option for ride type can help better meet the rural ride demand. 
-•	Adding a shared-ride can also help better service more of the population’s ride demands. Shared-rides can help reduce the fare for one single passenger and increase the revenue for the overall trip and driver. 
+- Increasing the number of drivers available for rural cities can help meet the ride demand better. 
+- Rural cities might mean longer trips for the drivers operating in these cities and them being occupied for longer times. Including a long-haul option for ride type can help better meet the rural ride demand. 
+- Adding a shared-ride can also help better service more of the population’s ride demands. Shared-rides can help reduce the fare for one single passenger and increase the revenue for the overall trip and driver. 
